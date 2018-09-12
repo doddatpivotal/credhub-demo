@@ -1,0 +1,4 @@
+applications:
+- name: credhub-demo
+  memory: 1G
+  path: target/credhub-demo-0.0.1-SNAPSHOT.jar
